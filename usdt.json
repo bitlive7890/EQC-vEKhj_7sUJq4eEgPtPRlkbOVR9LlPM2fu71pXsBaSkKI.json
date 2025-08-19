@@ -1,0 +1,11 @@
+{
+  "name": "Tether USD Bridged ZED50",
+  "symbol": "USDT",
+  "decimals": 6,
+  "address": "EQC-vEKhj_7sUJq4eEgPtPRlkbOVR9LlPM2fu71pXsBaSkKI",
+  "logoURI": "https://i.postimg.cc/QN5sFKVK/usdt-x.png",
+  "tags": ["stablecoin", "usd", "bridge"],
+  "description": "Tether USD Bridged ZED50 Stable",
+  "website": "https://zedscan.net/",
+  "telegram": "https://t.me/zedxion"
+}
